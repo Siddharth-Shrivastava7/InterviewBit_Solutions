@@ -1,4 +1,4 @@
  
-Solutions are made available in C++ language
+Solutions are in C++ language
 
 
